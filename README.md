@@ -1,4 +1,5 @@
 # Bakery Ordering System
+**Note:** This project was originally developed for CPSC 210 - Software Constructure in 2024. It has been migrated here for portfolio purposes.
 
 ## Streamlined order management in a bakery
 
